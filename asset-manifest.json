@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TiKToK_Feeds_POC/static/css/main.de86e1df.css",
+    "main.js": "/TiKToK_Feeds_POC/static/js/main.9c47ca98.js",
+    "static/js/453.d111b828.chunk.js": "/TiKToK_Feeds_POC/static/js/453.d111b828.chunk.js",
+    "index.html": "/TiKToK_Feeds_POC/index.html",
+    "main.de86e1df.css.map": "/TiKToK_Feeds_POC/static/css/main.de86e1df.css.map",
+    "main.9c47ca98.js.map": "/TiKToK_Feeds_POC/static/js/main.9c47ca98.js.map",
+    "453.d111b828.chunk.js.map": "/TiKToK_Feeds_POC/static/js/453.d111b828.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de86e1df.css",
+    "static/js/main.9c47ca98.js"
+  ]
+}
